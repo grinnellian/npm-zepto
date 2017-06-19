@@ -1,6 +1,6 @@
 {
   "name": "npm-zepto-cross-platform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An automatic CommonJS Zepto wrapper. This is a stopgap npm package pending update to npm-zepto.",
   "main": "index.js",
   "scripts": {
